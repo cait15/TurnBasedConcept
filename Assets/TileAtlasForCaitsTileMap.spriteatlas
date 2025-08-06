@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TileAtlasForCaitsTileMap
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 90b052be16e8fe84fb85393cc3d46b89: 1222657149
+    - 90b052be16e8fe84fb85393cc3d46b89: 1760012752
+    - 90b052be16e8fe84fb85393cc3d46b89: 258621175
+    - 90b052be16e8fe84fb85393cc3d46b89: -1409533793
+    - 90b052be16e8fe84fb85393cc3d46b89: 41600097
+    - 90b052be16e8fe84fb85393cc3d46b89: 374512215
+    - 90b052be16e8fe84fb85393cc3d46b89: 2016327907
+    - 90b052be16e8fe84fb85393cc3d46b89: 654825809
+    - 90b052be16e8fe84fb85393cc3d46b89: -1837702761
+    - 90b052be16e8fe84fb85393cc3d46b89: -1562902865
+    - 90b052be16e8fe84fb85393cc3d46b89: 471472160
+    - 90b052be16e8fe84fb85393cc3d46b89: -1150040659
+    - 90b052be16e8fe84fb85393cc3d46b89: 1340661311
+    - 90b052be16e8fe84fb85393cc3d46b89: -2127006888
+    - 90b052be16e8fe84fb85393cc3d46b89: 197295387
+    - 90b052be16e8fe84fb85393cc3d46b89: -120925190
+    - 90b052be16e8fe84fb85393cc3d46b89: 97342916
+    - 90b052be16e8fe84fb85393cc3d46b89: 1000156642
+    - 90b052be16e8fe84fb85393cc3d46b89: 502755516
+    - 90b052be16e8fe84fb85393cc3d46b89: -2010129236
+    - 90b052be16e8fe84fb85393cc3d46b89: 701356568
+    - 90b052be16e8fe84fb85393cc3d46b89: 2083581417
+    - 90b052be16e8fe84fb85393cc3d46b89: 2065984822
+    - 90b052be16e8fe84fb85393cc3d46b89: 2009469763
+    - 90b052be16e8fe84fb85393cc3d46b89: -1933646049
+    - 90b052be16e8fe84fb85393cc3d46b89: 280735063
+    - 90b052be16e8fe84fb85393cc3d46b89: 298205285
+    - 90b052be16e8fe84fb85393cc3d46b89: 1862653610
+    - 90b052be16e8fe84fb85393cc3d46b89: -527945264
+    - 90b052be16e8fe84fb85393cc3d46b89: -1982300254
+    - 90b052be16e8fe84fb85393cc3d46b89: 1437171330
+    - 90b052be16e8fe84fb85393cc3d46b89: 754778011
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1222657149, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 1760012752, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 258621175, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: -1409533793, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 41600097, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 374512215, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 2016327907, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 654825809, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: -1837702761, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: -1562902865, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 471472160, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: -1150040659, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 1340661311, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: -2127006888, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 197295387, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: -120925190, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 97342916, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 1000156642, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 502755516, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: -2010129236, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 701356568, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 2083581417, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 2065984822, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 2009469763, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: -1933646049, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 280735063, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 298205285, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 1862653610, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: -527945264, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: -1982300254, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 1437171330, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  - {fileID: 754778011, guid: 90b052be16e8fe84fb85393cc3d46b89, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - CaitsTileMap2_9
+  - CaitsTileMap2_28
+  - CaitsTileMap2_29
+  - CaitsTileMap2_24
+  - CaitsTileMap2_25
+  - CaitsTileMap2_26
+  - CaitsTileMap2_27
+  - CaitsTileMap2_20
+  - CaitsTileMap2_21
+  - CaitsTileMap2_22
+  - CaitsTileMap2_23
+  - CaitsTileMap2_31
+  - CaitsTileMap2_30
+  - CaitsTileMap2_15
+  - CaitsTileMap2_14
+  - CaitsTileMap2_17
+  - CaitsTileMap2_16
+  - CaitsTileMap2_6
+  - CaitsTileMap2_11
+  - CaitsTileMap2_7
+  - CaitsTileMap2_10
+  - CaitsTileMap2_4
+  - CaitsTileMap2_13
+  - CaitsTileMap2_5
+  - CaitsTileMap2_12
+  - CaitsTileMap2_2
+  - CaitsTileMap2_3
+  - CaitsTileMap2_0
+  - CaitsTileMap2_1
+  - CaitsTileMap2_19
+  - CaitsTileMap2_18
+  - CaitsTileMap2_8
+  m_RenderDataMap: {}
+  m_Tag: TileAtlasForCaitsTileMap
+  m_IsVariant: 0
